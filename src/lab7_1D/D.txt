@@ -1,0 +1,1 @@
+To check equality it is not need to check visited or not visited for any employee as it only indicates state.

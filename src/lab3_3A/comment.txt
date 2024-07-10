@@ -1,0 +1,3 @@
+The class diagram describes circle class is a child type extends Cylinder type. The literature of inheritance is saying that
+circle type can use code of Cylinder type i.e. means code reusability. Hence, it is not implemented as they are not sharing
+no propertise or methods.

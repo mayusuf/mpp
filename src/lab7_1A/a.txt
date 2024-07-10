@@ -1,0 +1,2 @@
+The six interfaces of ArrayList are following List, RandomAccess, Collection, Iterable, Serialization, Cloneable. And it
+extends class AbstractList

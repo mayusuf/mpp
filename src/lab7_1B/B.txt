@@ -1,0 +1,3 @@
+The overridden equals method is not correct.The contains method of List check whether the given item is in the given list.
+To check it elements it uses equals method of List interface. Ih this case the equals method takes Employee Reference object whether it is
+expecting Object.

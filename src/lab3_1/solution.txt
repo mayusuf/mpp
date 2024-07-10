@@ -1,0 +1,3 @@
+p1.equals(p2)? false
+P2 is instance of Person class not instance of PersonWithJob class. PersonWithJob class extends Person class. Higher class instance couldn't
+be a instance of child class.
